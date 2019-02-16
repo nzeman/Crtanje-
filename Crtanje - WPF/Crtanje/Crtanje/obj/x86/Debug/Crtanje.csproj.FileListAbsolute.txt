@@ -1,0 +1,161 @@
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polomorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+K:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+I:\OOPI\Vjezbe_kkolac\Vježba11 - Nasljeđivanje i polimorfizam\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+E:\Kreso\MEV\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+I:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje2\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+K:\OOPI\Vjezbe_kkolac\Vježba12 - Crtanje\Crtanje_predlozak\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csprojResolveAssemblyReference.cache
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+F:\Crtanje - WPF\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe.manifest
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.application
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe.manifest
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.application
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csprojResolveAssemblyReference.cache
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.baml
+E:\FAKS\2. godina\OBJEKTNO PROGRAMIRANJE\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.g.cs
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe.manifest
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.application
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csprojResolveAssemblyReference.cache
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.baml
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.g.cs
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe.manifest
+H:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.application
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csprojResolveAssemblyReference.cache
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.baml
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.g.cs
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe.manifest
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.application
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe.manifest
+F:\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.application
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.pdb
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe.manifest
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.application
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.exe
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\bin\Debug\Crtanje.pdb
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csprojResolveAssemblyReference.cache
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.baml
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.baml
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\MainWindow.g.cs
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Upute.g.cs
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\App.g.cs
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje_MarkupCompile.cache
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.g.resources
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.Properties.Resources.resources
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.csproj.GenerateResource.Cache
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.exe.manifest
+D:\FAKS\2. godina\3. semestar\usb crleni backup 16.2.2015\Crtanje! v1.0\Crtanje - WPF v 1.0\Crtanje - WPF\Crtanje\Crtanje\obj\x86\Debug\Crtanje.application
